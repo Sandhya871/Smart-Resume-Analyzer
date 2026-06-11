@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 import re
 import csv
 import base64
@@ -131,11 +133,11 @@ connection, cursor = None, None
 try:
     # 🔴 CHANGE THESE TO MATCH YOUR MYSQL SETUP
     connection = pymysql.connect(
-        host="localhost",
-        user="sra_user",        # e.g. "root" or your MySQL username
-        password="yourpassword",# your MySQL password
-        database="sra",         # database name
-    )
+    host=os.getenv("DB_HOST", "localhost"),
+    user=os.getenv("DB_USER", "root"),
+    password=os.getenv("DB_PASSWORD", ""),
+    database=os.getenv("DB_NAME", "sra"),
+)
     cursor = connection.cursor()
 except Exception as e:
     print("DB connection error:", e)
@@ -746,9 +748,10 @@ def run():
         ad_user = st.text_input("Username")
         ad_password = st.text_input("Password", type="password")
 
-        if st.button("Login"):
-            if ad_user == "C_vision" and ad_password == "Baas@007":
-                st.success("Welcome C_vision Data")
+if st.button("Login"):
+    if ad_user == os.getenv("ADMIN_USERNAME", "admin") and \
+       ad_password == os.getenv("ADMIN_PASSWORD", "admin123"):
+        st.success("Welcome Admin")
 
                 cursor.execute("SELECT * FROM user_data")
                 data = cursor.fetchall()
