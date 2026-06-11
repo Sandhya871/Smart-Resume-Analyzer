@@ -36,3 +36,15 @@ The application includes resume scoring, ATS (Applicant Tracking System) analysi
 ## Project Goal
 
 The goal of this project is to help job seekers optimize their resumes, identify skill gaps, and receive actionable insights that can improve their career prospects.
+
+## Environment Variables
+
+Create a `.env` file in the project root:
+
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=your_password
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=your_mysql_password
+DB_NAME=sra
