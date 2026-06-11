@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+PyMuPDF
+pandas
+PyMySQL
+plotly
+Pillow
+streamlit-tags
+nltk
