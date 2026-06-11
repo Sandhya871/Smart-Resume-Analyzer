@@ -7,3 +7,4 @@ plotly
 Pillow
 streamlit-tags
 nltk
+python-dotenv
