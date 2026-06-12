@@ -118,7 +118,7 @@ Smart-Resume-Analyzer/
 
 
 # OUTPUTS
-<img width="800" height="772" alt="Picture1" src="https://github.com/user-attachments/assets/cc3bd584-f4e5-4699-bf2a-b74ca79e8440" />
+<img width="800" height="400" alt="Picture1" src="https://github.com/user-attachments/assets/cc3bd584-f4e5-4699-bf2a-b74ca79e8440" />
 
 
 
