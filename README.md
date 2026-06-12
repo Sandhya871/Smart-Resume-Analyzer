@@ -116,6 +116,12 @@ Smart-Resume-Analyzer/
 
 ---
 
+
+# OUTPUTS
+<img width="1502" height="772" alt="Picture1" src="https://github.com/user-attachments/assets/cc3bd584-f4e5-4699-bf2a-b74ca79e8440" />
+
+
+
 ## Author
 
 **Sandiyadevi V**
@@ -123,3 +129,5 @@ Smart-Resume-Analyzer/
 Computer Science Engineering Student | Python Enthusiast
 
 Passionate about building practical applications and continuously learning new technologies.
+
+
