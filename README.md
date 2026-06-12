@@ -118,8 +118,20 @@ Smart-Resume-Analyzer/
 
 
 # OUTPUTS
-<img width="800" height="400" alt="Picture1" src="https://github.com/user-attachments/assets/cc3bd584-f4e5-4699-bf2a-b74ca79e8440" />
 
+# NORMAL USER
+<img width="800" height="400" alt="Picture1" src="https://github.com/user-attachments/assets/cc3bd584-f4e5-4699-bf2a-b74ca79e8440" />
+<img width="800" height="400" alt="Picture2" src="https://github.com/user-attachments/assets/2f244636-1a0e-46d5-ac07-fd41b7673431" />
+<img width="800" height="400" alt="Picture3" src="https://github.com/user-attachments/assets/5027a337-6bc4-4b3b-8f64-5a39354d3c02" />
+<img width="800" height="400" alt="Picture4" src="https://github.com/user-attachments/assets/31e6efb6-f892-4ad6-a0d1-1ee091006645" />
+<img width="800" height="400" alt="Picture5" src="https://github.com/user-attachments/assets/17d9e5b5-9745-4f07-86e0-cc1aae4ffd0a" />
+<img width="800" height="400" alt="Picture6" src="https://github.com/user-attachments/assets/285777b2-66c3-43db-b947-2c93ff27f35b" />
+<img width="800" height="400" alt="Picture7" src="https://github.com/user-attachments/assets/59e2ce1a-24ee-492b-a627-764b5bdbd11f" />
+
+# ADMIN SIDE
+<img width="800" height="400" alt="Picture8" src="https://github.com/user-attachments/assets/21d475cb-54f3-40c2-85bc-8926e624525b" />
+<img width="800" height="400" alt="Picture9" src="https://github.com/user-attachments/assets/79008de6-ab66-45cc-89d0-41a3d81c62da" />
+<img width="800" height="400" alt="Picture10" src="https://github.com/user-attachments/assets/abe58053-2b29-4bde-ab22-18fc5dbfe0b6" />
 
 
 ## Author
